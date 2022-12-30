@@ -1,6 +1,9 @@
 ## Project
-Replicated a paper that used event study methodology to investigate evidence on the effects of OPEC announcements on world oil prices.
-
+Replicated a
+paper which uses event study methodology to investigate evidence on the effects of OPEC announcements on world oil prices by
+examining announcements from both official conferences and ministerial meetings on major international crude. The official papers
+uses data from 1982 to 2008. I gathered the new data up to 2021 and replicated the paper and in addition tested other approaches
+to see whether same results will be achieved.
 ## Practical Assignments
 ### HW2:
 Testing Capital Asset Pricing Model  
