@@ -1,9 +1,7 @@
-## Project Description
+## Project
 Replicated a paper that used event study methodology to investigate evidence on the effects of OPEC announcements on world oil prices.
 
-## Practical Assignments Descriptions
-
-
+## Practical Assignments
 ### HW2:
 Testing Capital Asset Pricing Model  
 Drawing the Security Market Line  
